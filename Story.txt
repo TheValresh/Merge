@@ -1,27 +1,11 @@
 Story Time:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Years and years of eating muffins left him as nothing more than a hollow shell of a man.
-Disappointed with life, the Muffin Man decided now is the time to die.
-So, he hopped aboard the coffin train (still covered in muffins, of course) and had himself carried
-off to the graveyard, where he asked the coffin bearer for the check
-=======
-The Muffin Man was always hungry, but no matter what he tried, the only thing that could fill him
+Person 1:The Muffin Man was always hungry, but no matter what he tried, the only thing that could fill him
 was muffins.
 Things were so bad that no one even bothered to learn or remember his true name, which was
 eventually lost to the choir of death ears which surrounded the man.
 When he became old and decrepit, the Muffin Man just called himself The Muffin Man out of
 sheer laziness.
-Years and years of eating muffins left him as nothing more than a hollow shell of a man.
-Disappointed with life, the Muffin Man decided now is the time to die.
-So, he hopped aboard the coffin train (still covered in muffins, of course) and had himself carried
-off to the graveyard, where he asked the coffin bearer for the check.
-
->>>>>>> f75d5a736c27f554fa5bd2548c5be5c13e13bba6
-=======
-Person 1:
 
 Person 2:Years and years of eating muffins left him as nothing more than a hollow shell of a man.
 Disappointed with life, the Muffin Man decided now is the time to die.
@@ -30,4 +14,4 @@ off to the graveyard, where he asked the coffin bearer for the check.
 
 
 Person 3:
->>>>>>> 5f0d49fcfbad1d2532946a263d8b17199bf898f2
+
